@@ -1,0 +1,70 @@
+PCBNEW-LibModule-V1  22.12.2015 (вт) 18,52,47 EET
+# encoding utf-8
+Units mm
+$INDEX
+ed1112s
+$EndINDEX
+$MODULE ed1112s
+Po 0 0 0 15 56797FD6 00000000 ~~
+Li ed1112s
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.1 2 1 1 0 0.15 N V 21 N "ed1112s"
+T1 0.1 -1.6 1 1 0 0.15 N V 21 N "VAL**"
+DC 0 0 -1.9 2.5 0.15 21
+DS -5.9 -5.9 5.9 -5.9 0.15 21
+DS 5.9 -5.9 5.9 5.9 0.15 21
+DS 5.9 5.9 -5.9 5.9 0.15 21
+DS -5.9 5.9 -5.9 -5.9 0.15 21
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.5 7.5
+$EndPAD
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 7.5
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.5 7.5
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.5 -7
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.5 -7
+$EndPAD
+$PAD
+Sh "6" C 3.5 3.5 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.5 0
+$EndPAD
+$PAD
+Sh "7" C 3.5 3.5 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.5 0
+$EndPAD
+$EndMODULE ed1112s
+$EndLIBRARY

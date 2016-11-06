@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = 22.12.2015 (вт) 20,31,26 EET
+
+BeginCmp
+TimeStamp = /56796064;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796098;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5679627F;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /567961EF;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796966;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /567968EB;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796089;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795EA9;
+Reference = P1;
+ValeurCmp = BNC;
+IdModule  = SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795E8B;
+Reference = P2;
+ValeurCmp = ED1112S;
+IdModule  = ed1112s;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795F52;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = TO92PN;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795F61;
+Reference = Q2;
+ValeurCmp = NPN;
+IdModule  = TO92PN;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796000;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795FDD;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5679602D;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795FCE;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /567961D6;
+Reference = R5;
+ValeurCmp = RVAR;
+IdModule  = RV2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5679632B;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796353;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796371;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5679638F;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5679675D;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56796EB3;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /567996C2;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795E6D;
+Reference = U1;
+ValeurCmp = AD9850-MOD;
+IdModule  = ad9850-mod;
+EndCmp
+
+BeginCmp
+TimeStamp = /56794F17;
+Reference = U2;
+ValeurCmp = ARDUINO_NANO;
+IdModule  = arduino_mini;
+EndCmp
+
+BeginCmp
+TimeStamp = /56795E7C;
+Reference = U3;
+ValeurCmp = LCD5110;
+IdModule  = lcd5110;
+EndCmp
+
+EndListe

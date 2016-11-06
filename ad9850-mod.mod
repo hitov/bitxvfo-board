@@ -1,0 +1,160 @@
+PCBNEW-LibModule-V1  22.12.2015 (вт) 18,35,27 EET
+# encoding utf-8
+Units mm
+$INDEX
+ad9850-mod
+$EndINDEX
+$MODULE ad9850-mod
+Po 0 0 0 15 56797B6D 00000000 ~~
+Li ad9850-mod
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.15 N V 21 N "ad9850-mod"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS 30 -12.7 30 12.7 0.15 21
+DS -15 -12.7 -15 12.7 0.15 21
+DS -15 -12.75 30 -12.75 0.15 21
+DS -15 12.75 30 12.75 0.15 21
+$PAD
+Sh "1" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 10.16
+$EndPAD
+$PAD
+Sh "2" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 10.16
+$EndPAD
+$PAD
+Sh "3" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 10.16
+$EndPAD
+$PAD
+Sh "4" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 10.16
+$EndPAD
+$PAD
+Sh "5" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 10.16
+$EndPAD
+$PAD
+Sh "6" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 10.16
+$EndPAD
+$PAD
+Sh "7" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 10.16
+$EndPAD
+$PAD
+Sh "8" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 10.16
+$EndPAD
+$PAD
+Sh "9" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 10.16
+$EndPAD
+$PAD
+Sh "10" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 10.16
+$EndPAD
+$PAD
+Sh "11" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22.86 -10.16
+$EndPAD
+$PAD
+Sh "12" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20.32 -10.16
+$EndPAD
+$PAD
+Sh "13" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.78 -10.16
+$EndPAD
+$PAD
+Sh "14" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -10.16
+$EndPAD
+$PAD
+Sh "15" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12.7 -10.16
+$EndPAD
+$PAD
+Sh "16" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 -10.16
+$EndPAD
+$PAD
+Sh "17" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -10.16
+$EndPAD
+$PAD
+Sh "18" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 -10.16
+$EndPAD
+$PAD
+Sh "19" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -10.16
+$EndPAD
+$PAD
+Sh "20" O 1.8 2.2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -10.16
+$EndPAD
+$EndMODULE ad9850-mod
+$EndLIBRARY
